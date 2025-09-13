@@ -11,3 +11,4 @@ Git is quite interesting, I must say. It's like cmd for Windows but with a twist
 One thing I learned from Git is that conflicts with repositories may end up giving you a hard time but I guess that's what every app comes with: being able to learn and practice more.
 
 PR Page;
+![image alt](https://github.com/Jordancode-cyber/ucu-dip-webdev-2025-lab01--Feta---B27097-/blob/057bd180444318da6ba790401fe39eab6d3e10bf/PR%20Page.png)
