@@ -3,6 +3,7 @@ The term HTTP stands for Hyper Text Transfer Protocol. It's mainly responsible f
 An HTTP request is mainly made by a client on the web: web browsers. An HTTP response is done by the server where these browsers are hosted.
 
 Network Tab;
+![image alt](https://github.com/Jordancode-cyber/ucu-dip-webdev-2025-lab01--Feta---B27097-/blob/69b5e82e3e44d470c65f883b89f897cb283fabfe/Network%20Tab.png)
 
 Status codes have different meanings in HTTP; the code displayed on my screen was 200, which meant that my HTTP request was successfully completed.
 
